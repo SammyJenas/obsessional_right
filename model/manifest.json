@@ -1,0 +1,6 @@
+{
+    "description": "dead or alive v1",
+    "model": "model/model.json",
+    "modelSize": 64,
+    "modelLatentDim": 128
+}
